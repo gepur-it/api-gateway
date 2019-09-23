@@ -1,0 +1,12 @@
+{
+    "rabbit_connection_string": "amqp://gepur_erp:gepur_erp@127.0.0.1:5672/vhost",
+    "rabbit_endpoint_queue": "endpoint",
+    "log_app_name": "OneC-Endpoint",
+    "log_email_smtp_host":"smtp.example.com",
+    "log_email_smtp_port":2525,
+    "log_email_smtp_from":"admin@example.com",
+    "log_email_smtp_to":"admin@example.com",
+    "log_email_smtp_username":"admin@example.com",
+    "log_email_smtp_passwd":"passwd",
+    "webhook_server": "127.0.0.1:1274"
+}
